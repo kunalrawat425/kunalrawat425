@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kunalrawat425
-- 👀 I’m interested in building scalable web applications with REST API and SPA technology
-- 🌱 I’m currently learning Javascript,ReactJs,NextJs and ES6
-- 📫 Reach me on kunalrawat425@gmail.com
+- 👋 Hi, I’m @kunalrawat425.
+- 👀 I’m interested in building scalable web applications with REST API and SPA technology.
+- 🌱 I’m currently learning Javascript,ReactJs,NextJs and ES6.
+- 📫 Reach me on kunalrawat425@gmail.com.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
 <!---
