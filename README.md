@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kunalrawat425.
+- 👋 Hi, I’m Kunal Rawat
 - 👀 I’m interested in building scalable web applications with REST API and SPA technology.
-- 🌱 I’m currently learning Javascript, ReactJs, NextJs and Graphql.
+- 🌱 I’m currently learning Typescript, ReactJs, NextJs and Graphql.
 - 📫 Reach me on kunalrawat425@gmail.com.
