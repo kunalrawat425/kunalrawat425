@@ -6,7 +6,7 @@ Senior software engineer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kunalrawat425@gmail.com](mailto:kunalrawat425@gmail.com)
-* 🧠  I'm learning Nestjs, Typescript, graphql
+* 🧠  I'm learning Nestjs, Typescript, Graphql.
 
 ### Skills
 
